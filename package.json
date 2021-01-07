@@ -1,0 +1,22 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Landing page for natours",
+  "main": "index.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielSantiagoCampos/natours.git"
+  },
+  "author": "Daniel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielSantiagoCampos/natours/issues"
+  },
+  "homepage": "https://github.com/DanielSantiagoCampos/natours#readme",
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
