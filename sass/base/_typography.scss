@@ -10,8 +10,8 @@ body {
   color: $color-white;
   text-transform: uppercase;
 
-  backface-visibility: hidden;
   /* para evitar que la caja se mueva al hacer la animacion */
+  backface-visibility: hidden;
 
   margin-bottom: 6rem;
 
